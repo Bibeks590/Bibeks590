@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Bibek%20Singh&fontSize=70&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hey+I'm+Bibek+Singh;💻+Full+Stack+Developer;🚀+MERN+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;⚡+Computer+Engineering+Student;🔥+Building+The+Future+With+Code"/>
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hey+I'm+Bibek+Singh;💻+Full+Stack+Developer;🚀+MERN+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;⚡+Computer+Engineering+Student;🔥+Building+Awesome+Projects"/>
 
 <br>
 
@@ -18,35 +16,35 @@
 
 ---
 
-# ⚡ About Me
+<div align="center">
 
-```yaml
-Name: Bibek Singh
-Username: bibeks590
-Location: Nepal 🇳🇵
-Portfolio: https://bibeksingh.com.np
+<img width="700" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-Role:
-  - Computer Engineering Student
-  - Full Stack Developer
-  - AI Enthusiast
-
-Currently Learning:
-  - MERN Stack
-  - Next.js
-  - Docker
-  - Cloud Computing
-  - Machine Learning
-
-Goal:
-  - Build impactful software
-  - Create SaaS products
-  - Become a world-class engineer
-```
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
+### 👨‍💻 Bibek Singh
+
+- 🎓 Computer Engineering Student
+- 🌍 Based in Nepal 🇳🇵
+- 🚀 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently Learning MERN Stack, Next.js, Docker & Cloud
+- 💡 Passionate about building real-world applications
+- 🎯 Goal: Become a World-Class Software Engineer
+
+### 🌐 Portfolio
+
+**https://bibeksingh.com.np**
+
+---
+
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -56,7 +54,7 @@ Goal:
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -66,7 +64,7 @@ Goal:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -75,6 +73,10 @@ Goal:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibeks590&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -94,13 +96,15 @@ Goal:
 
 ---
 
-# 📋 Profile Summary
+# 📋 GitHub Profile Summary
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibeks590&theme=tokyonight"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -109,6 +113,8 @@ Goal:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bibeks590&theme=tokyonight"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -120,68 +126,58 @@ Goal:
 
 ---
 
-# 💻 Developer Card
-
-```javascript
-class BibekSingh {
-  constructor() {
-    this.name = "Bibek Singh";
-    this.username = "bibeks590";
-    this.location = "Nepal";
-    this.role = "Full Stack Developer";
-
-    this.skills = {
-      frontend: ["React", "Next.js", "Tailwind CSS"],
-      backend: ["Node.js", "Express.js"],
-      database: ["MongoDB", "PostgreSQL", "MySQL"],
-      ai: ["Machine Learning", "Computer Vision"]
-    };
-  }
-
-  sayHello() {
-    return "Welcome to my GitHub Profile 🚀";
-  }
-}
-
-const me = new BibekSingh();
-console.log(me.sayHello());
-```
-
----
-
 # 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
-Modern full-stack shopping platform with authentication, payments, admin dashboard, and responsive design.
+## 🛒 E-Commerce Platform
 
-### 🍽️ Restaurant Management System
-Real-time restaurant ordering solution with Admin, Staff, and Customer modules.
+✨ Full-stack e-commerce website featuring:
 
-### 😊 AI Emotion Detection System
-CNN-powered emotion recognition using Computer Vision and Machine Learning.
-
-### 🌐 Portfolio Website
-Interactive portfolio with React, Tailwind CSS, Three.js, and GSAP animations.
+- Authentication & Authorization
+- Payment Integration
+- Admin Dashboard
+- Product Management
+- Responsive Design
 
 ---
 
-# 🌍 Connect With Me
+## 🍽️ Restaurant Management System
 
-<div align="center">
+✨ Complete restaurant solution featuring:
 
-<a href="https://bibeksingh.com.np">
-<img src="https://img.shields.io/badge/🌐_Portfolio-bibeksingh.com.np-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/bibeks590">
-<img src="https://img.shields.io/badge/GitHub-bibeks590-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+- Admin Panel
+- Staff Panel
+- Customer Panel
+- Real-Time Orders
+- Invoice Generation
+- Payment Integration
 
 ---
 
-# 💬 Random Dev Quote
+## 🤖 AI Emotion Detection System
+
+✨ Machine Learning Project featuring:
+
+- Face Detection
+- Emotion Recognition
+- Age Prediction
+- Gender Detection
+- CNN Models
+
+---
+
+## 🌐 Portfolio Website
+
+✨ Modern portfolio built with:
+
+- React
+- Tailwind CSS
+- Three.js
+- GSAP Animations
+- Responsive Design
+
+---
+
+# 💬 Developer Quote
 
 <div align="center">
 
@@ -193,26 +189,45 @@ Interactive portfolio with React, Tailwind CSS, Three.js, and GSAP animations.
 
 # 🎯 2026 Goals
 
-- ✅ Master MERN Stack
-- ✅ Build Production SaaS Applications
-- ✅ Learn Advanced AI & Machine Learning
-- ✅ Contribute to Open Source
-- 🔄 Build Products Used by Thousands
-- 🔄 Launch Successful Startup
+✅ Master MERN Stack
+
+✅ Build SaaS Applications
+
+✅ Learn Advanced AI & ML
+
+✅ Contribute to Open Source
+
+🔄 Launch Real Products
+
+🔄 Grow as Software Engineer
 
 ---
 
-# 🐍 Contribution Snake
+# 🌎 Connect With Me
 
-> After creating the profile, set up a GitHub Action and uncomment this:
+<div align="center">
 
-```html
+<a href="https://bibeksingh.com.np">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/bibeks590">
+<img src="https://img.shields.io/badge/GitHub-bibeks590-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+> Create a GitHub Action later and then uncomment the code below:
+
 <!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bibeks590/bibeks590/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/bibeks590/bibeks590/output/github-contribution-grid-snake.svg" />
 </p>
 -->
-```
 
 ---
 
