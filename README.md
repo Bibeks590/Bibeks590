@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Bibek%20Singh&fontSize=70&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Bibek%20Singh&fontSize=70&animation=twinkling&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hey+I'm+Bibek+Singh;💻+Full+Stack+Developer;🚀+MERN+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;⚡+Computer+Engineering+Student;🔥+Building+Awesome+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hey+I'm+Bibek+Singh;💻+Full+Stack+Developer;🚀+MERN+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🎓+Computer+Engineering+Student;🔥+Building+Awesome+Projects"/>
 
 <br>
 
@@ -24,27 +24,33 @@
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<img align="right" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 ### 👨‍💻 Bibek Singh
 
-- 🎓 Computer Engineering Student
-- 🌍 Based in Nepal 🇳🇵
-- 🚀 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently Learning MERN Stack, Next.js, Docker & Cloud
-- 💡 Passionate about building real-world applications
-- 🎯 Goal: Become a World-Class Software Engineer
+🎓 Computer Engineering Student
 
-### 🌐 Portfolio
+🇳🇵 Based in Nepal
 
-**https://bibeksingh.com.np**
+💻 Full Stack Developer
+
+🚀 MERN Stack Enthusiast
+
+🤖 AI & Machine Learning Enthusiast
+
+🌱 Currently Learning Next.js, Docker, Cloud Computing & Deep Learning
+
+⚡ Passionate About Building Modern Web Applications
+
+🎯 Goal: Become a World-Class Software Engineer
+
+🌐 Portfolio: **https://bibeksingh.com.np**
 
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
@@ -54,29 +60,17 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bibeks590&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bibeks590&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibeks590&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibeks590&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibeks590&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
@@ -86,7 +80,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -114,66 +108,124 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bibeks590&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bibeks590&theme=tokyonight"/>
-
-</div>
-
 ---
 
 # 🚀 Featured Projects
 
+## 🎓 School Management System
+
+A complete web-based School Management System designed to simplify educational administration.
+
+### Features
+
+- Student Management
+- Teacher Management
+- Attendance Tracking
+- Examination Management
+- Result Processing
+- Fee Management
+- Admin Dashboard
+- Role-Based Authentication
+- Report Generation
+
+### Technologies
+
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+---
+
+## 😊 Human Emotion Detection System Using CNN
+
+A Deep Learning-based Human Emotion Detection System capable of identifying emotions from facial expressions in real time.
+
+### Features
+
+- Real-Time Face Detection
+- Emotion Recognition
+- CNN-Based Deep Learning Model
+- Multiple Emotion Classification
+- Live Camera Integration
+- Data Visualization
+- Performance Analytics
+
+### Technologies
+
+`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
+
+---
+
 ## 🛒 E-Commerce Platform
 
-✨ Full-stack e-commerce website featuring:
+A modern full-stack online shopping platform.
 
-- Authentication & Authorization
-- Payment Integration
-- Admin Dashboard
+### Features
+
+- User Authentication
 - Product Management
+- Shopping Cart
+- Payment Integration
+- Order Tracking
+- Admin Dashboard
 - Responsive Design
+
+### Technologies
+
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
 ## 🍽️ Restaurant Management System
 
-✨ Complete restaurant solution featuring:
+Real-time restaurant ordering and management system.
 
+### Features
+
+- Customer Ordering
+- Staff Dashboard
 - Admin Panel
-- Staff Panel
-- Customer Panel
-- Real-Time Orders
+- Real-Time Order Updates
 - Invoice Generation
 - Payment Integration
 
----
+### Technologies
 
-## 🤖 AI Emotion Detection System
-
-✨ Machine Learning Project featuring:
-
-- Face Detection
-- Emotion Recognition
-- Age Prediction
-- Gender Detection
-- CNN Models
+`MERN Stack` `Socket.io` `MongoDB`
 
 ---
 
-## 🌐 Portfolio Website
+## 🌐 Personal Portfolio Website
 
-✨ Modern portfolio built with:
+Modern portfolio showcasing projects, skills and achievements.
 
-- React
-- Tailwind CSS
-- Three.js
-- GSAP Animations
+### Features
+
 - Responsive Design
+- 3D Elements
+- Smooth Animations
+- Project Showcase
+- Contact Form
+
+### Technologies
+
+`React` `Three.js` `GSAP` `Tailwind CSS`
+
+---
+
+# 🏆 Achievements & Goals
+
+✅ Building Full Stack Applications
+
+✅ Learning AI & Machine Learning
+
+✅ Exploring Cloud Technologies
+
+✅ Open Source Contributions
+
+🔄 Building SaaS Products
+
+🔄 Advanced Deep Learning Projects
+
+🔄 Startup & Product Development
 
 ---
 
@@ -187,23 +239,7 @@
 
 ---
 
-# 🎯 2026 Goals
-
-✅ Master MERN Stack
-
-✅ Build SaaS Applications
-
-✅ Learn Advanced AI & ML
-
-✅ Contribute to Open Source
-
-🔄 Launch Real Products
-
-🔄 Grow as Software Engineer
-
----
-
-# 🌎 Connect With Me
+# 🌍 Connect With Me
 
 <div align="center">
 
@@ -216,18 +252,6 @@
 </a>
 
 </div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-> Create a GitHub Action later and then uncomment the code below:
-
-<!--
-<p align="center">
-<img src="https://raw.githubusercontent.com/bibeks590/bibeks590/output/github-contribution-grid-snake.svg" />
-</p>
--->
 
 ---
 
