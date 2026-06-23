@@ -1,19 +1,162 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://www.bibeksingh.com.np/) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/bibeks590) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bibeks590) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bibeks590) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bibeks590) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bibeks590@gmail.com) 
+# 👋 Hey, I'm Bibek Singh
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bibeks590&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Bibeks590&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bibeks590&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Awesome+Things+with+Code" />
+
+<img src="https://komarev.com/ghpvc/?username=bibeks590&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
-[![](https://www.bibeksingh.com.np/?username=Bibeks590&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bibeks590@gmail.com) 
+# 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+Name: Bibek Singh
+Username: bibeks590
+Location: Nepal 🇳🇵
+Education: Computer Engineering Student
+Portfolio: https://bibeksingh.com.np
+
+Passionate About:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Open Source
+  - Modern Web Technologies
+
+Currently Learning:
+  - MERN Stack
+  - Next.js
+  - Docker
+  - Cloud Computing
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,npm,postman" />
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bibeks590&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibeks590&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bibeks590&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bibeks590&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibeks590&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🛒 E-Commerce Platform
+A modern full-stack e-commerce application featuring authentication, payment integration, responsive design, and admin dashboard.
+
+### 🍽️ Restaurant Management System
+Real-time restaurant ordering system with Admin, Staff, and Customer panels including live order updates.
+
+### 😊 AI Emotion Detection System
+Deep learning based emotion recognition system using CNN and Computer Vision technologies.
+
+### 🌐 Portfolio Website
+Personal portfolio built with React, Tailwind CSS, Three.js, and modern animations.
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://bibeksingh.com.np">
+<img src="https://img.shields.io/badge/Portfolio-bibeksingh.com.np-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="https://github.com/bibeks590">
+<img src="https://img.shields.io/badge/GitHub-bibeks590-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+const bibek = {
+  name: "Bibek Singh",
+  location: "Nepal",
+  role: "Computer Engineering Student",
+  code: ["JavaScript", "Python", "C++"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "MySQL", "PostgreSQL"],
+  },
+  currentFocus: "Building scalable web applications",
+  lifeGoal: "Become a great software engineer 🚀",
+};
+```
+
+---
+
+<div align="center">
+
+### 💡 Code. Learn. Build. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer"/>
+
+</div>
