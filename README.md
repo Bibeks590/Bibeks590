@@ -1,39 +1,56 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hi%20There,%20I'm%20Bibek%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Bibek%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20ML%20Enthusiast&descAlignY=62&descSize=17"/>
 
-<a href="https://bibeksingh.com.np">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%F0%9F%8E%93;Self-Taught+Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%2B+Python+%2F+ML+%F0%9F%A4%96;Building+Real-World+Web+Apps+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5"/>
-</a>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Self-Taught+Full+Stack+Developer;MERN+Stack+%7C+Python+%2F+Machine+Learning;Building+Production-Ready+Web+Applications"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bibeks590&label=Profile%20Views&color=0072ff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/bibeks590?label=Followers&style=for-the-badge&color=0072ff"/>
-<img src="https://img.shields.io/github/stars/bibeks590?affiliations=OWNER&style=for-the-badge&color=00c6ff"/>
+<a href="https://bibeksingh.com.np">
+  <img src="https://img.shields.io/badge/Portfolio-bibeksingh.com.np-2C5364?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/bibeks590">
+  <img src="https://img.shields.io/badge/GitHub-bibeks590-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-2C5364?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+## About
 
-<img align="right" width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+I'm a Computer Engineering student at **Cosmos College of Management and Technology**, Kathmandu, and a self-taught full stack developer. I build with the **MERN stack** (React, Node.js, MongoDB, WebSockets, Tailwind CSS), and also work with **Python** and **machine learning**. I'm currently expanding into **Next.js, Docker, and cloud computing**, with the long-term goal of becoming a world-class software engineer. I also run a **YouTube channel** where I share what I build.
 
-- 🎓 Computer Engineering Student at **Cosmos College of Management and Technology**, Kathmandu
-- 💻 Self-taught **Full Stack Developer** — MERN stack (React, Node.js, MongoDB, WebSockets, Tailwind CSS)
-- 🤖 Also work with **Python** and **Machine Learning**
-- 🌱 Currently exploring **Next.js, Docker, and Cloud Computing**
-- 🎯 Goal: become a world-class software engineer
-- 📺 I run a **YouTube channel** where I share what I build
-- 🌐 Portfolio: **[bibeksingh.com.np](https://bibeksingh.com.np)**
-- 📫 Reach me via GitHub or my portfolio contact form
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br clear="right"/>
+**Education**
+Computer Engineering Student
+Cosmos College of Management and Technology
+
+**Focus areas**
+Full Stack Web Development · AI & Machine Learning
+
+</td>
+<td width="50%" valign="top">
+
+**Currently learning**
+Next.js · Docker · Cloud Computing · Deep Learning
+
+**Elsewhere**
+[Portfolio](https://bibeksingh.com.np) · [GitHub](https://github.com/bibeks590) · YouTube
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -43,47 +60,53 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bibeks590&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibeks590&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bibeks590&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibeks590&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bibeks590&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibeks590&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=bibeks590&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-> ⚠️ Stats cards are served by a free public API and can occasionally fail to load if the service is rate-limited — if a card looks broken, it usually resolves itself shortly. Self-hosting is recommended for a permanent fix.
+<details>
+<summary><b>Cards not loading?</b></summary>
+<br>
+
+These cards are served by free, community-run APIs that are occasionally rate-limited and can fail to render — this is not specific to this profile. If a card looks broken:
+
+- Refresh the page after a minute — most failures are temporary.
+- Open the image URL directly in a new tab to check if the service itself is down.
+- For a permanent fix, self-host `github-readme-stats` on your own Vercel account by forking [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and swapping the domain in the image URLs above.
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 School Management System
-Web-based platform to simplify educational administration.
+### School Management System
+Web-based platform to simplify educational administration — from admissions to results.
 
-**Features:** Student & Teacher Management · Attendance Tracking · Examination & Result Processing · Fee Management · Admin Dashboard · Role-Based Auth · Report Generation
+**Features:** Student & teacher management · Attendance tracking · Examination & result processing · Fee management · Admin dashboard · Role-based authentication · Report generation
 
 `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### 😊 Human Emotion Detection (CNN)
-Deep learning system that identifies emotions from facial expressions in real time.
+### Human Emotion Detection (CNN)
+Deep learning system that identifies human emotions from facial expressions in real time.
 
-**Features:** Real-Time Face Detection · Emotion Recognition · CNN-Based Model · Multi-Class Classification · Live Camera Integration · Performance Analytics
+**Features:** Real-time face detection · Emotion recognition · CNN-based deep learning model · Multi-class classification · Live camera integration · Performance analytics
 
 `Python` `TensorFlow` `Keras` `OpenCV` `CNN`
 
@@ -92,20 +115,20 @@ Deep learning system that identifies emotions from facial expressions in real ti
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform
-Full-stack online shopping platform.
+### E-Commerce Platform
+Full-stack online shopping platform with end-to-end order flow.
 
-**Features:** User Auth · Product Management · Shopping Cart · Payment Integration · Order Tracking · Admin Dashboard · Responsive Design
+**Features:** User authentication · Product management · Shopping cart · Payment integration · Order tracking · Admin dashboard · Responsive design
 
 `React` `Node.js` `Express.js` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Restaurant Management System
-Real-time restaurant ordering and management system.
+### Restaurant Management System
+Real-time restaurant ordering and management system with live order sync.
 
-**Features:** Customer Ordering · Staff Dashboard · Admin Panel · Real-Time Order Updates · Invoice Generation · Payment Integration
+**Features:** Customer ordering · Staff dashboard · Admin panel · Real-time order updates · Invoice generation · Payment integration
 
 `MERN Stack` `Socket.io` `MongoDB`
 
@@ -114,18 +137,18 @@ Real-time restaurant ordering and management system.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio Website
+### Personal Portfolio Website
 Modern portfolio showcasing projects, skills, and achievements.
 
-**Features:** Responsive Design · 3D Elements · Smooth Animations · Project Showcase · Contact Form
+**Features:** Responsive design · 3D elements · Smooth animations · Project showcase · Contact form
 
 `React` `Three.js` `GSAP` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ More on the way
-New projects are always in progress — check my pinned repos for the latest.
+### More Projects
+New work is always in progress — the latest is on my repositories page.
 
 [View all repositories →](https://github.com/bibeks590?tab=repositories)
 
@@ -135,44 +158,24 @@ New projects are always in progress — check my pinned repos for the latest.
 
 ---
 
-## 🏆 Achievements & Goals
+## Achievements & Roadmap
 
-- ✅ Building Full Stack Applications
-- ✅ Learning AI & Machine Learning
-- ✅ Exploring Cloud Technologies
-- ✅ Open Source Contributions
-- 🔄 Building SaaS Products
-- 🔄 Advanced Deep Learning Projects
-- 🔄 Startup & Product Development
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+| Status | Milestone |
+|---|---|
+| ✅ | Building full stack applications |
+| ✅ | Learning AI & machine learning |
+| ✅ | Exploring cloud technologies |
+| ✅ | Open source contributions |
+| 🔄 | Building SaaS products |
+| 🔄 | Advanced deep learning projects |
+| 🔄 | Startup & product development |
 
 ---
 
-## 🌍 Connect With Me
-
 <div align="center">
 
-<a href="https://bibeksingh.com.np">
-  <img src="https://img.shields.io/badge/Portfolio-bibeksingh.com.np-0072ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/bibeks590">
-  <img src="https://img.shields.io/badge/GitHub-bibeks590-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<sub>Thanks for visiting — feel free to explore my repositories or reach out through my portfolio.</sub>
 
-</div>
-
-<div align="center">
-<br>
-
-**⭐ Thanks for visiting my profile — feel free to explore my repos!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0072ff,100:00c6ff&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2C5364,50:203A43,100:0F2027&section=footer"/>
 
 </div>
